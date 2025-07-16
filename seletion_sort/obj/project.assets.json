@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Almeidiano\\Treino\\Treino.csproj",
+      "projectUniqueName": "C:\\Users\\Almeidiano\\DSA\\Treino.csproj",
       "projectName": "Treino",
-      "projectPath": "C:\\Users\\Almeidiano\\Treino\\Treino.csproj",
+      "projectPath": "C:\\Users\\Almeidiano\\DSA\\Treino.csproj",
       "packagesPath": "C:\\Users\\Almeidiano\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Almeidiano\\Treino\\obj\\",
+      "outputPath": "C:\\Users\\Almeidiano\\DSA\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Almeidiano\\AppData\\Roaming\\NuGet\\NuGet.Config"
