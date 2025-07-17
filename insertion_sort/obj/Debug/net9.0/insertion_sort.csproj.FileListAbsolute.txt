@@ -1,0 +1,15 @@
+C:\Users\Almeidiano\DSA\insertion_sort\obj\Debug\net9.0\insertion_sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Almeidiano\DSA\insertion_sort\obj\Debug\net9.0\insertion_sort.AssemblyInfoInputs.cache
+C:\Users\Almeidiano\DSA\insertion_sort\obj\Debug\net9.0\insertion_sort.AssemblyInfo.cs
+C:\Users\Almeidiano\DSA\insertion_sort\obj\Debug\net9.0\insertion_sort.csproj.CoreCompileInputs.cache
+C:\Users\Almeidiano\DSA\insertion_sort\obj\Debug\net9.0\insertion_sort.sourcelink.json
+C:\Users\Almeidiano\DSA\insertion_sort\bin\Debug\net9.0\insertion_sort.exe
+C:\Users\Almeidiano\DSA\insertion_sort\bin\Debug\net9.0\insertion_sort.deps.json
+C:\Users\Almeidiano\DSA\insertion_sort\bin\Debug\net9.0\insertion_sort.runtimeconfig.json
+C:\Users\Almeidiano\DSA\insertion_sort\bin\Debug\net9.0\insertion_sort.dll
+C:\Users\Almeidiano\DSA\insertion_sort\bin\Debug\net9.0\insertion_sort.pdb
+C:\Users\Almeidiano\DSA\insertion_sort\obj\Debug\net9.0\insertion_sort.dll
+C:\Users\Almeidiano\DSA\insertion_sort\obj\Debug\net9.0\refint\insertion_sort.dll
+C:\Users\Almeidiano\DSA\insertion_sort\obj\Debug\net9.0\insertion_sort.pdb
+C:\Users\Almeidiano\DSA\insertion_sort\obj\Debug\net9.0\insertion_sort.genruntimeconfig.cache
+C:\Users\Almeidiano\DSA\insertion_sort\obj\Debug\net9.0\ref\insertion_sort.dll

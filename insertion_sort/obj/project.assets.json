@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Almeidiano\\DSA\\seletion_sort\\Treino.csproj",
-      "projectName": "Treino",
-      "projectPath": "C:\\Users\\Almeidiano\\DSA\\seletion_sort\\Treino.csproj",
+      "projectUniqueName": "C:\\Users\\Almeidiano\\DSA\\insertion_sort\\insertion_sort.csproj",
+      "projectName": "insertion_sort",
+      "projectPath": "C:\\Users\\Almeidiano\\DSA\\insertion_sort\\insertion_sort.csproj",
       "packagesPath": "C:\\Users\\Almeidiano\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Almeidiano\\DSA\\seletion_sort\\obj\\",
+      "outputPath": "C:\\Users\\Almeidiano\\DSA\\insertion_sort\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Almeidiano\\AppData\\Roaming\\NuGet\\NuGet.Config"

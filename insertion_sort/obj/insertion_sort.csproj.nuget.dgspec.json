@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Almeidiano\\DSA\\seletion_sort\\Treino.csproj": {}
+    "c:\\Users\\Almeidiano\\DSA\\insertion_sort\\insertion_sort.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Almeidiano\\DSA\\seletion_sort\\Treino.csproj": {
+    "c:\\Users\\Almeidiano\\DSA\\insertion_sort\\insertion_sort.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Almeidiano\\DSA\\seletion_sort\\Treino.csproj",
-        "projectName": "Treino",
-        "projectPath": "C:\\Users\\Almeidiano\\DSA\\seletion_sort\\Treino.csproj",
+        "projectUniqueName": "c:\\Users\\Almeidiano\\DSA\\insertion_sort\\insertion_sort.csproj",
+        "projectName": "insertion_sort",
+        "projectPath": "c:\\Users\\Almeidiano\\DSA\\insertion_sort\\insertion_sort.csproj",
         "packagesPath": "C:\\Users\\Almeidiano\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Almeidiano\\DSA\\seletion_sort\\obj\\",
+        "outputPath": "c:\\Users\\Almeidiano\\DSA\\insertion_sort\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Almeidiano\\AppData\\Roaming\\NuGet\\NuGet.Config"
